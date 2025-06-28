@@ -1,7 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
-import PanDeMuerteComponent from '../PanDeMuerteComponent';
-import HomeScreenStyles from '../styles/HomeScreenStyles';
+import PanDeMuerteComponent from '../../components/PanDeMuerteComponent';
+import HomeScreenStyles from '../../styles/HomeScreenStyles';
 
 export default function HomeScreen() {
   return (
