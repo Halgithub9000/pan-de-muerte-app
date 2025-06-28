@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "cita": "Si me la mojai te mato",
+    "autor": "Paul Vásquez",
+    "lugar": "Viña 2008"
+  },
+  {
+    "id": 2,
+    "cita": "El que no salta es Pinochet",
+    "autor": "Hinchas de fútbol",
+    "lugar": "Estadio Nacional"
+  },
+  {
+    "id": 3,
+    "cita": "¿Quién se comió mi torta?",
+    "autor": "Cecilia Bolocco",
+    "lugar": "Festival de Viña del Mar"
+  },
+  {
+    "id": 4,
+    "cita": "¡Exijo una explicación!",
+    "autor": "Condorito",
+    "lugar": "Historieta"
+  },
+  {
+    "id": 5,
+    "cita": "¡Mijito rico!",
+    "autor": "Patricia Maldonado",
+    "lugar": "Televisión Chilena"
+  },
+  {
+    "id": 6,
+    "cita": "¡Viva Chile mierda!",
+    "autor": "Marcelo Ríos",
+    "lugar": "Copa Davis"
+  },
+  {
+    "id": 7,
+    "cita": "¡No estoy ni ahí!",
+    "autor": "Charly Badulaque",
+    "lugar": "Televisión Chilena"
+  },
+  {
+    "id": 8,
+    "cita": "¡Esto no prende!",
+    "autor": "Don Ramón",
+    "lugar": "El Chavo del 8"
+  },
+  {
+    "id": 9,
+    "cita": "¡Viva la cueca!",
+    "autor": "Bailarines de cueca",
+    "lugar": "Fiestas Patrias"
+  },
+  {
+    "id": 10,
+    "cita": "¡Arriba los corazones!",
+    "autor": "Don Francisco",
+    "lugar": "Teletón"
+  },
+  {
+    "id": 11,
+    "cita": "¡Esto es un escándalo!",
+    "autor": "Raquel Argandoña",
+    "lugar": "Televisión Chilena"
+  },
+  {
+    "id": 12,
+    "cita": "¡No se preocupe, compadre!",
+    "autor": "El Huaso Filomeno",
+    "lugar": "Festival de Viña del Mar"
+  },
+  {
+    "id": 13,
+    "cita": "¡Qué lindo es mi Chile!",
+    "autor": "Violeta Parra",
+    "lugar": "Canción"
+  },
+  {
+    "id": 14,
+    "cita": "¡Esto es un atentado!",
+    "autor": "Político Chileno",
+    "lugar": "Congreso Nacional"
+  },
+  {
+    "id": 15,
+    "cita": "¡No hay plata!",
+    "autor": "Ministro de Hacienda",
+    "lugar": "Gobierno Chileno"
+  },
+  {
+    "id": 16,
+    "cita": "¡Esto es un robo!",
+    "autor": "Hinchas de fútbol",
+    "lugar": "Estadio Nacional"
+  },
+  {
+    "id": 17,
+    "cita": "¡Esto es un abuso!",
+    "autor": "Ciudadano Chileno",
+    "lugar": "Protesta"
+  },
+  {
+    "id": 18,
+    "cita": "¡Esto es una vergüenza!",
+    "autor": "Periodista Chileno",
+    "lugar": "Noticiero"
+  },
+  {
+    "id": 19,
+    "cita": "¡Esto es un desastre!",
+    "autor": "Bombero Chileno",
+    "lugar": "Incendio"
+  },
+  {
+    "id": 20,
+    "cita": "¡Esto es un milagro!",
+    "autor": "Sacerdote Chileno",
+    "lugar": "Iglesia"
+  },
+  {
+    "id": 21,
+    "cita": "¡Esto es un sueño!",
+    "autor": "Deportista Chileno",
+    "lugar": "Competencia Internacional"
+  },
+  {
+    "id": 22,
+    "cita": "¡Esto es un logro!",
+    "autor": "Estudiante Chileno",
+    "lugar": "Graduación"
+  },
+  {
+    "id": 23,
+    "cita": "¡Esto es un orgullo!",
+    "autor": "Padre Chileno",
+    "lugar": "Familia"
+  },
+  {
+    "id": 24,
+    "cita": "¡Esto es un ejemplo!",
+    "autor": "Profesor Chileno",
+    "lugar": "Clase"
+  },
+  {
+    "id": 25,
+    "cita": "¡Esto es un reto!",
+    "autor": "Empresario Chileno",
+    "lugar": "Negocio"
+  },
+  {
+    "id": 26,
+    "cita": "¡Esto es un desafío!",
+    "autor": "Político Chileno",
+    "lugar": "Campaña"
+  },
+  {
+    "id": 27,
+    "cita": "¡Esto es un cambio!",
+    "autor": "Activista Chileno",
+    "lugar": "Protesta"
+  },
+  {
+    "id": 28,
+    "cita": "¡Esto es una revolución!",
+    "autor": "Estudiante Chileno",
+    "lugar": "Marcha"
+  },
+  {
+    "id": 29,
+    "cita": "¡Esto es una oportunidad!",
+    "autor": "Emprendedor Chileno",
+    "lugar": "Negocio"
+  },
+  {
+    "id": 30,
+    "cita": "¡Esto es una meta!",
+    "autor": "Deportista Chileno",
+    "lugar": "Competencia"
+  },
+  {
+    "id": 31,
+    "cita": "¡Esto es una realidad!",
+    "autor": "Periodista Chileno",
+    "lugar": "Noticiero"
+  },
+  {
+    "id": 32,
+    "cita": "¡Esto es una verdad!",
+    "autor": "Sacerdote Chileno",
+    "lugar": "Iglesia"
+  },
+  {
+    "id": 33,
+    "cita": "¡Esto es una mentira!",
+    "autor": "Político Chileno",
+    "lugar": "Congreso"
+  },
+  {
+    "id": 34,
+    "cita": "¡Esto es una injusticia!",
+    "autor": "Ciudadano Chileno",
+    "lugar": "Protesta"
+  },
+  {
+    "id": 35,
+    "cita": "¡Esto es una esperanza!",
+    "autor": "Sacerdote Chileno",
+    "lugar": "Iglesia"
+  },
+  {
+    "id": 36,
+    "cita": "¡Esto es una alegría!",
+    "autor": "Padre Chileno",
+    "lugar": "Familia"
+  },
+  {
+    "id": 37,
+    "cita": "¡Esto es una tristeza!",
+    "autor": "Ciudadano Chileno",
+    "lugar": "Protesta"
+  },
+  {
+    "id": 38,
+    "cita": "¡Esto es una sorpresa!",
+    "autor": "Periodista Chileno",
+    "lugar": "Noticiero"
+  },
+  {
+    "id": 39,
+    "cita": "¡Esto es una emoción!",
+    "autor": "Deportista Chileno",
+    "lugar": "Competencia"
+  },
+  {
+    "id": 40,
+    "cita": "¡Esto es una pasión!",
+    "autor": "Hincha Chileno",
+    "lugar": "Estadio"
+  },
+  {
+    "id": 41,
+    "cita": "¡Esto es una locura!",
+    "autor": "Ciudadano Chileno",
+    "lugar": "Protesta"
+  },
+  {
+    "id": 42,
+    "cita": "¡Esto es una aventura!",
+    "autor": "Explorador Chileno",
+    "lugar": "Montaña"
+  },
+  {
+    "id": 43,
+    "cita": "¡Esto es una experiencia!",
+    "autor": "Turista Chileno",
+    "lugar": "Viaje"
+  },
+  {
+    "id": 44,
+    "cita": "¡Esto es una historia!",
+    "autor": "Escritor Chileno",
+    "lugar": "Libro"
+  },
+  {
+    "id": 45,
+    "cita": "¡Esto es una canción!",
+    "autor": "Cantante Chileno",
+    "lugar": "Concierto"
+  },
+  {
+    "id": 46,
+    "cita": "¡Esto es una obra!",
+    "autor": "Actor Chileno",
+    "lugar": "Teatro"
+  },
+  {
+    "id": 47,
+    "cita": "¡Esto es una película!",
+    "autor": "Director Chileno",
+    "lugar": "Cine"
+  },
+  {
+    "id": 48,
+    "cita": "¡Esto es una serie!",
+    "autor": "Productor Chileno",
+    "lugar": "Televisión"
+  },
+  {
+    "id": 49,
+    "cita": "¡Esto es una novela!",
+    "autor": "Escritor Chileno",
+    "lugar": "Libro"
+  },
+  {
+    "id": 50,
+    "cita": "¡Esto es una poesía!",
+    "autor": "Poeta Chileno",
+    "lugar": "Libro"
+  },
+  {
+    "id": 51,
+    "cita": "¡Esto es una pintura!",
+    "autor": "Artista Chileno",
+    "lugar": "Galería"
+  },
+  {
+    "id": 52,
+    "cita": "¡Esto es una escultura!",
+    "autor": "Escultor Chileno",
+    "lugar": "Museo"
+  },
+  {
+    "id": 53,
+    "cita": "¡Esto es una fotografía!",
+    "autor": "Fotógrafo Chileno",
+    "lugar": "Exposición"
+  },
+  {
+    "id": 54,
+    "cita": "¡Esto es una danza!",
+    "autor": "Bailarín Chileno",
+    "lugar": "Escenario"
+  },
+  {
+    "id": 55,
+    "cita": "¡Esto es una tradición!",
+    "autor": "Ciudadano Chileno",
+    "lugar": "Fiestas Patrias"
+  }
+]
