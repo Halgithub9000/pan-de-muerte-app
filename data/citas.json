@@ -1,332 +1,1097 @@
 [
-  {
-    "id": 1,
-    "cita": "Si me la mojai te mato",
-    "autor": "Paul Vásquez",
-    "lugar": "Viña 2008"
-  },
-  {
-    "id": 2,
-    "cita": "El que no salta es Pinochet",
-    "autor": "Hinchas de fútbol",
-    "lugar": "Estadio Nacional"
-  },
-  {
-    "id": 3,
-    "cita": "¿Quién se comió mi torta?",
-    "autor": "Cecilia Bolocco",
-    "lugar": "Festival de Viña del Mar"
-  },
-  {
-    "id": 4,
-    "cita": "¡Exijo una explicación!",
-    "autor": "Condorito",
-    "lugar": "Historieta"
-  },
-  {
-    "id": 5,
-    "cita": "¡Mijito rico!",
-    "autor": "Patricia Maldonado",
-    "lugar": "Televisión Chilena"
-  },
-  {
-    "id": 6,
-    "cita": "¡Viva Chile mierda!",
-    "autor": "Marcelo Ríos",
-    "lugar": "Copa Davis"
-  },
-  {
-    "id": 7,
-    "cita": "¡No estoy ni ahí!",
-    "autor": "Charly Badulaque",
-    "lugar": "Televisión Chilena"
-  },
-  {
-    "id": 8,
-    "cita": "¡Esto no prende!",
-    "autor": "Don Ramón",
-    "lugar": "El Chavo del 8"
-  },
-  {
-    "id": 9,
-    "cita": "¡Viva la cueca!",
-    "autor": "Bailarines de cueca",
-    "lugar": "Fiestas Patrias"
-  },
-  {
-    "id": 10,
-    "cita": "¡Arriba los corazones!",
-    "autor": "Don Francisco",
-    "lugar": "Teletón"
-  },
-  {
-    "id": 11,
-    "cita": "¡Esto es un escándalo!",
-    "autor": "Raquel Argandoña",
-    "lugar": "Televisión Chilena"
-  },
-  {
-    "id": 12,
-    "cita": "¡No se preocupe, compadre!",
-    "autor": "El Huaso Filomeno",
-    "lugar": "Festival de Viña del Mar"
-  },
-  {
-    "id": 13,
-    "cita": "¡Qué lindo es mi Chile!",
-    "autor": "Violeta Parra",
-    "lugar": "Canción"
-  },
-  {
-    "id": 14,
-    "cita": "¡Esto es un atentado!",
-    "autor": "Político Chileno",
-    "lugar": "Congreso Nacional"
-  },
-  {
-    "id": 15,
-    "cita": "¡No hay plata!",
-    "autor": "Ministro de Hacienda",
-    "lugar": "Gobierno Chileno"
-  },
-  {
-    "id": 16,
-    "cita": "¡Esto es un robo!",
-    "autor": "Hinchas de fútbol",
-    "lugar": "Estadio Nacional"
-  },
-  {
-    "id": 17,
-    "cita": "¡Esto es un abuso!",
-    "autor": "Ciudadano Chileno",
-    "lugar": "Protesta"
-  },
-  {
-    "id": 18,
-    "cita": "¡Esto es una vergüenza!",
-    "autor": "Periodista Chileno",
-    "lugar": "Noticiero"
-  },
-  {
-    "id": 19,
-    "cita": "¡Esto es un desastre!",
-    "autor": "Bombero Chileno",
-    "lugar": "Incendio"
-  },
-  {
-    "id": 20,
-    "cita": "¡Esto es un milagro!",
-    "autor": "Sacerdote Chileno",
-    "lugar": "Iglesia"
-  },
-  {
-    "id": 21,
-    "cita": "¡Esto es un sueño!",
-    "autor": "Deportista Chileno",
-    "lugar": "Competencia Internacional"
-  },
-  {
-    "id": 22,
-    "cita": "¡Esto es un logro!",
-    "autor": "Estudiante Chileno",
-    "lugar": "Graduación"
-  },
-  {
-    "id": 23,
-    "cita": "¡Esto es un orgullo!",
-    "autor": "Padre Chileno",
-    "lugar": "Familia"
-  },
-  {
-    "id": 24,
-    "cita": "¡Esto es un ejemplo!",
-    "autor": "Profesor Chileno",
-    "lugar": "Clase"
-  },
-  {
-    "id": 25,
-    "cita": "¡Esto es un reto!",
-    "autor": "Empresario Chileno",
-    "lugar": "Negocio"
-  },
-  {
-    "id": 26,
-    "cita": "¡Esto es un desafío!",
-    "autor": "Político Chileno",
-    "lugar": "Campaña"
-  },
-  {
-    "id": 27,
-    "cita": "¡Esto es un cambio!",
-    "autor": "Activista Chileno",
-    "lugar": "Protesta"
-  },
-  {
-    "id": 28,
-    "cita": "¡Esto es una revolución!",
-    "autor": "Estudiante Chileno",
-    "lugar": "Marcha"
-  },
-  {
-    "id": 29,
-    "cita": "¡Esto es una oportunidad!",
-    "autor": "Emprendedor Chileno",
-    "lugar": "Negocio"
-  },
-  {
-    "id": 30,
-    "cita": "¡Esto es una meta!",
-    "autor": "Deportista Chileno",
-    "lugar": "Competencia"
-  },
-  {
-    "id": 31,
-    "cita": "¡Esto es una realidad!",
-    "autor": "Periodista Chileno",
-    "lugar": "Noticiero"
-  },
-  {
-    "id": 32,
-    "cita": "¡Esto es una verdad!",
-    "autor": "Sacerdote Chileno",
-    "lugar": "Iglesia"
-  },
-  {
-    "id": 33,
-    "cita": "¡Esto es una mentira!",
-    "autor": "Político Chileno",
-    "lugar": "Congreso"
-  },
-  {
-    "id": 34,
-    "cita": "¡Esto es una injusticia!",
-    "autor": "Ciudadano Chileno",
-    "lugar": "Protesta"
-  },
-  {
-    "id": 35,
-    "cita": "¡Esto es una esperanza!",
-    "autor": "Sacerdote Chileno",
-    "lugar": "Iglesia"
-  },
-  {
-    "id": 36,
-    "cita": "¡Esto es una alegría!",
-    "autor": "Padre Chileno",
-    "lugar": "Familia"
-  },
-  {
-    "id": 37,
-    "cita": "¡Esto es una tristeza!",
-    "autor": "Ciudadano Chileno",
-    "lugar": "Protesta"
-  },
-  {
-    "id": 38,
-    "cita": "¡Esto es una sorpresa!",
-    "autor": "Periodista Chileno",
-    "lugar": "Noticiero"
-  },
-  {
-    "id": 39,
-    "cita": "¡Esto es una emoción!",
-    "autor": "Deportista Chileno",
-    "lugar": "Competencia"
-  },
-  {
-    "id": 40,
-    "cita": "¡Esto es una pasión!",
-    "autor": "Hincha Chileno",
-    "lugar": "Estadio"
-  },
-  {
-    "id": 41,
-    "cita": "¡Esto es una locura!",
-    "autor": "Ciudadano Chileno",
-    "lugar": "Protesta"
-  },
-  {
-    "id": 42,
-    "cita": "¡Esto es una aventura!",
-    "autor": "Explorador Chileno",
-    "lugar": "Montaña"
-  },
-  {
-    "id": 43,
-    "cita": "¡Esto es una experiencia!",
-    "autor": "Turista Chileno",
-    "lugar": "Viaje"
-  },
-  {
-    "id": 44,
-    "cita": "¡Esto es una historia!",
-    "autor": "Escritor Chileno",
-    "lugar": "Libro"
-  },
-  {
-    "id": 45,
-    "cita": "¡Esto es una canción!",
-    "autor": "Cantante Chileno",
-    "lugar": "Concierto"
-  },
-  {
-    "id": 46,
-    "cita": "¡Esto es una obra!",
-    "autor": "Actor Chileno",
-    "lugar": "Teatro"
-  },
-  {
-    "id": 47,
-    "cita": "¡Esto es una película!",
-    "autor": "Director Chileno",
-    "lugar": "Cine"
-  },
-  {
-    "id": 48,
-    "cita": "¡Esto es una serie!",
-    "autor": "Productor Chileno",
-    "lugar": "Televisión"
-  },
-  {
-    "id": 49,
-    "cita": "¡Esto es una novela!",
-    "autor": "Escritor Chileno",
-    "lugar": "Libro"
-  },
-  {
-    "id": 50,
-    "cita": "¡Esto es una poesía!",
-    "autor": "Poeta Chileno",
-    "lugar": "Libro"
-  },
-  {
-    "id": 51,
-    "cita": "¡Esto es una pintura!",
-    "autor": "Artista Chileno",
-    "lugar": "Galería"
-  },
-  {
-    "id": 52,
-    "cita": "¡Esto es una escultura!",
-    "autor": "Escultor Chileno",
-    "lugar": "Museo"
-  },
-  {
-    "id": 53,
-    "cita": "¡Esto es una fotografía!",
-    "autor": "Fotógrafo Chileno",
-    "lugar": "Exposición"
-  },
-  {
-    "id": 54,
-    "cita": "¡Esto es una danza!",
-    "autor": "Bailarín Chileno",
-    "lugar": "Escenario"
-  },
-  {
-    "id": 55,
-    "cita": "¡Esto es una tradición!",
-    "autor": "Ciudadano Chileno",
-    "lugar": "Fiestas Patrias"
-  }
+    {
+        "id": 1,
+        "cita": "El día más feliz de mi vida tal vez ya pasó",
+        "autor": "Édouard Levé"
+    },
+    {
+        "id": 2,
+        "cita": "En esta vida morir no es nuevo pero vivir tampoco es novedoso",
+        "autor": "Sergei Essenin"
+    },
+    {
+        "id": 3,
+        "cita": "El amor nada puede cambiar. Las palabras nada pueden añadir.",
+        "autor": "Anne Carson"
+    },
+    {
+        "id": 4,
+        "cita": "Con edad de siempre, sin edad feliz!",
+        "autor": "Gabriela Mistral"
+    },
+    {
+        "id": 5,
+        "cita": "Nada se pierde con vivir, /tenemos todo el tiempo del tiempo por delante/para ser el vacío que somos en el fondo",
+        "autor": "Enrique Lihn"
+    },
+    {
+        "id": 6,
+        "cita": "Lo bueno, en cierto sentido, es descorazonador",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 7,
+        "cita": "El mundo está demasiado feo y no hay manera de embellecerlo",
+        "autor": "Martín Adán"
+    },
+    {
+        "id": 8,
+        "cita": "Incluso cuando nada ocurre, todo me parece que sobra. ¿Qué decir entonces en presencia de un acontecimiento, de cualquier acontecimiento?",
+        "autor": "Emile Ciorán"
+    },
+    {
+        "id": 9,
+        "cita": "Quizá voluntad y destino son la misma casualidad",
+        "autor": "Lyn Hejinian"
+    },
+    {
+        "id": 10,
+        "cita": "Ah, ¿Quién me salvará de existir?",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 11,
+        "cita": "Estoy sin pasado, con un futuro excesivo",
+        "autor": "Martín Adán"
+    },
+    {
+        "id": 12,
+        "cita": "También la oscuridad viaja a la velocidad de la luz",
+        "autor": "Mario Montalbetti"
+    },
+    {
+        "id": 13,
+        "cita": "Entre todos estos desiertos hay un desierto eterno que solo desertando puede mi corazón desertar",
+        "autor": "Mario Montalbetti"
+    },
+    {
+        "id": 14,
+        "cita": "El mundo me es insuficiente. Es demasiado grande, y no puedo desmenuzarlo en pequeñas satisfacciones como yo quiero",
+        "autor": "Martín Adán"
+    },
+    {
+        "id": 15,
+        "cita": "No solo lo he perdido todo también sé dónde se ha ido",
+        "autor": "Mario Montalbetti"
+    },
+    {
+        "id": 16,
+        "cita": "El desierto es mi pastor todo me falta",
+        "autor": "Mario Montalbetti"
+    },
+    {
+        "id": 17,
+        "cita": "Morir es un arte, como todo. Yo lo hago extraordinariamente bien.",
+        "autor": "Sylvia Plath"
+    },
+    {
+        "id": 18,
+        "cita": "Las voces de la soledad, las voces de la tristeza golpean mi espalda inevitablemente",
+        "autor": "Sylvia Plath"
+    },
+    {
+        "id": 19,
+        "cita": "Soy un jardín de agonías rojas y negras. Las bebo, odiándome a mí misma, odiándome y temiéndome.",
+        "autor": "Sylvia Plath"
+    },
+    {
+        "id": 20,
+        "cita": "Le hablo a dios, pero el cielo está vacío.",
+        "autor": "Sylvia Plath"
+    },
+    {
+        "id": 21,
+        "cita": "Esta noche se siente curiosamente en paz, como en vísperas de una muerte buena",
+        "autor": "Sylvia Molloy"
+    },
+    {
+        "id": 22,
+        "cita": "La brevedad de la vida, tan a menudo lamentada, puede ser lo mejor de ella.",
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 23,
+        "cita": "Solo podré decir una vez sin mentir \"muero\"",
+        "autor": "Édouard Levé"
+    },
+    {
+        "id": 24,
+        "cita": "Seré, por siempre, extraño para mí mismo",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 25,
+        "cita": "Simplemente nunca lo comprenden, ¿verdad?, que a veces la soledad es una de las cosas más hermosas de la tierra",
+        "autor": "Charles Bukowski"
+    },
+    {
+        "id": 26,
+        "cita": "La poesía está en la pena",
+        "autor": "Wilfred Owen"
+    },
+    {
+        "id": 27,
+        "cita": "el trueno de la muerte inunda el universo",
+        "autor": "George Bataille"
+    },
+    {
+        "id": 28,
+        "cita": "Somos madres. Somos hijos. Miramos el mundo. Lo padecemos. Y, a veces, cuando creemos que nadie nos mira, lloramos sin saber si lo hacemos de felicidad o de tristeza.",
+        "autor": "Mori Polowsky"
+    },
+    {
+        "id": 29,
+        "cita": "Mi corazón te escupe estrella incomparable angustia me estoy riendo pero tengo frío.",
+        "autor": "George Bataille"
+    },
+    {
+        "id": 30,
+        "cita": "¿Hasta cuándo estaré deshabitado por un alma? ¿Hasta cuándo sufriré el motín de esta negativa?",
+        "autor": "Leonard Cohen"
+    },
+    {
+        "id": 31,
+        "cita": "Cae al cielo, cae a la luz, nadie puede dañarle mientras cae.",
+        "autor": "Leonard Cohen"
+    },
+    {
+        "id": 32,
+        "cita": "Bendito seas, abrazo de la caída, fundamento de luz, señor del accidente humano.",
+        "autor": "Leonard Cohen"
+    },
+    {
+        "id": 33,
+        "cita": "Hazme retroceder hasta tu misericordia con las medidas de una amarga canción, y no me separes de mis lágrimas.",
+        "autor": "Leonard Cohen"
+    },
+    {
+        "id": 34,
+        "cita": "Nada nos vuelve modestos, ni siquiera el ver un cadáver.",
+        "autor": "Emile Ciorán"
+    },
+    {
+        "id": 35,
+        "cita": "no es el rayo sino la ironía quien gobierna el universo. Ella es la ley del mundo.",
+        "autor": "Emile Ciorán"
+    },
+    {
+        "id": 36,
+        "cita": "Solo hay un error innato. Y esa es la noción de que existimos para ser felices.",
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 37,
+        "cita": "Vivir es ir perdiendo terreno.",
+        "autor": "Emile Ciorán"
+    },
+    {
+        "id": 38,
+        "cita": "También mueren los lugares donde fuimos felices.",
+        "autor": "Julio Ramón Rieyro"
+    },
+    {
+        "id": 39,
+        "cita": "Cuando miras mucho tiempo al interior de un abismo, el abismo también mira dentro de ti.",
+        "autor": "Friederich Nietzsche"
+    },
+    {
+        "id": 40,
+        "cita": "No hay necesidad de fuego, el infierno son los otros",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 41,
+        "cita": "El mundo podría existir muy bien sin la literatura, e incluso mejor sin el hombre",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 42,
+        "cita": "Como todos los soñadores, confundí el desencanto con la verdad",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 43,
+        "cita": "No hay más muertos que los llevados por los vivos",
+        "autor": "Pio Baroja"
+    },
+    {
+        "id": 44,
+        "cita": "¿Cuál será la caricia que aplaque nuestra locura?",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 45,
+        "cita": "En nuestra noche no alcanza el mejor baúl de disfraces, somos lo que somos y eso es lo que espanta. La noche es el espejo de los deformes.",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 46,
+        "cita": "Adondequiera que vayamos siempre llegamos demasiado tarde a aquello que una vez salimos a buscar.",
+        "autor": "Henrik Nordbrandt"
+    },
+    {
+        "id": 47,
+        "cita": "Futuro es para mí, una palabra que no tiene sentido. El futuro no podrá traerme lo que me faltó en el tiempo en que debía tenerlo.",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 48,
+        "cita": "No quiero ir hacia delante, no quiero avanzar. Quiero volver atrás y que todo empiece de nuevo y mejor.",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 49,
+        "cita": "Me estoy volviendo loca y no es justo",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 50,
+        "cita": "Entré sin llamar y descuarticé mis ilusiones",
+        "autor": "José Sbarra"
+    },
+    {
+        "id": 51,
+        "cita": "Mientras vivimos, vamos criando a la muerte al mismo tiempo.",
+        "autor": "Murakami"
+    },
+    {
+        "id": 52,
+        "cita": "Cuidado con la tristeza. Es un vicio.",
+        "autor": "Gustave Flaubert"
+    },
+    {
+        "id": 53,
+        "cita": "Qué más da si la herida se me pudre, me conformo con que ya no me duela.",
+        "autor": "Xavier Velasco"
+    },
+    {
+        "id": 54,
+        "cita": "Vos no elegís la lluvia que te va a calar hasta los huesos.",
+        "autor": "Julio Cortázar"
+    },
+    {
+        "id": 55,
+        "cita": "Sólo que el tiempo lo ha invadido todo con su pálido manto de tristeza.",
+        "autor": "Nicanor Parra"
+    },
+    {
+        "id": 56,
+        "cita": "Pero hace tanta soledad que las palabras se suicidan.",
+        "autor": "Alejandra Pizarnik"
+    },
+    {
+        "id": 57,
+        "cita": "Ama tu soledad y soporta el sufrimiento que te causa",
+        "autor": "Reiner María Rilke"
+    },
+    {
+        "id": 58,
+        "cita": "Filosofar es aprender a morir",
+        "autor": "Michel de Montaigne"
+    },
+    {
+        "id": 59,
+        "cita": "soy mi propio torturador",
+        "autor": "Leon Tolstoi"
+    },
+    {
+        "id": 60,
+        "cita": "Solo en soledad se siente la sed de verdad",
+        "autor": "María Zambrano"
+    },
+    {
+        "id": 61,
+        "cita": "Procede como Dios que nunca llora o como el Diablo que nunca reza",
+        "autor": "Almafuerte"
+    },
+    {
+        "id": 62,
+        "cita": "Lo mejor de todo es totalmente inalcanzable para ti: no haber nacido, no ser, ser nada. Y lo mejor en segundo lugar es para ti morir pronto",
+        "autor": "Friederich Nietzsche"
+    },
+    {
+        "id": 63,
+        "cita": "Así es, en fin... Las cuatro estaciones del año no me contemplan, sino trabajando.",
+        "autor": "Stella Díaz Varín"
+    },
+    {
+        "id": 64,
+        "cita": "No quiero Que mis muertos descansen en paz Tienen la obligación De estar presentes Vivientes en cada flor que me robo A escondidas Al filo de la medianoche Cuando los vivos al borde del insomnio Juegan a los dados Y enhebran su amargura.",
+        "autor": "Stella Díaz Varín"
+    },
+    {
+        "id": 65,
+        "cita": "Hay un último día / para todas las cosas",
+        "autor": "María José Ferrada"
+    },
+    {
+        "id": 66,
+        "cita": "Oh, silencio, silencio... esta tarde es la tarde en que la sangre mía ya no corre ni arde.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 67,
+        "cita": "Una luz en el alma musitará despacio: la vida es una cueva, la muerte es el espacio.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 68,
+        "cita": "Tengo la tierra encima y no la siento, llega el invierno y no me enfría el viento.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 69,
+        "cita": "El verano mis sueños no madura, la primavera el pulso no me apura.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 70,
+        "cita": "El corazón no tiembla, salta o late, fuera estoy de la línea de combate.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 71,
+        "cita": "Nada sucede dos veces ni sucederá, y por eso sin experiencia nacemos sin rutina moriremos",
+        "autor": "Wyslawa Szymborska"
+    },
+    {
+        "id": 72,
+        "cita": "Soy la que soy. Casualidad inconcebible como todas las casualidades.",
+        "autor": "Wyslawa Szymborska"
+    },
+    {
+        "id": 73,
+        "cita": "Nuestra salvación es la muerte, pero no esta.",
+        "autor": "Kafka"
+    },
+    {
+        "id": 74,
+        "cita": "La muerte es una flor que florece una sola vez Pero cuando florece, florece solo ella. Florece cuando quiere, no florece en el tiempo",
+        "autor": "Paul Celan"
+    },
+    {
+        "id": 75,
+        "cita": "¿Qué miedo los va a conmover? Morirán como las bestias. ¡Y después no hay nada más!",
+        "autor": "B. Brecht"
+    },
+    {
+        "id": 76,
+        "cita": "Una en mí maté: yo no la amaba",
+        "autor": "Mistral"
+    },
+    {
+        "id": 77,
+        "cita": "En lo que dura una noche cayó mi sol, se fue mi día, y mi carne se hizo humareda que corta un niño con la mano.",
+        "autor": "Mistral"
+    },
+    {
+        "id": 78,
+        "cita": "ni dicha ni dolor, nomás olvido",
+        "autor": "Mistral"
+    },
+    {
+        "id": 79,
+        "cita": "La felicidad me precede LA tristeza me sigue La muerte me espera",
+        "autor": "Edouad Levé"
+    },
+    {
+        "id": 80,
+        "cita": "Entiendo, ya no escuchas; pero no digas en voz alta al mundo lo malo. Dilo en voz baja.",
+        "autor": "B. Brecht"
+    },
+    {
+        "id": 81,
+        "cita": "Y el sol no llega con más certeza que la desgracia",
+        "autor": "B. Brecht"
+    },
+    {
+        "id": 82,
+        "cita": "Lo único verdadero es la luz en el rostro monstruoso que retrocede",
+        "autor": "Kafka"
+    },
+    {
+        "id": 83,
+        "cita": "Qué ridículamente te has enjaezado para este mundo",
+        "autor": "Kafka"
+    },
+    {
+        "id": 84,
+        "cita": "En la lucha entre el mundo y tú, ponte del lado del mundo",
+        "autor": "Kafka"
+    },
+    {
+        "id": 85,
+        "cita": "Fue el tormento, los golpes y en pedazos nos rompimos",
+        "autor": "Zurita"
+    },
+    {
+        "id": 86,
+        "cita": "Una herida arroja su propia luz",
+        "autor": "Anne Carson"
+    },
+    {
+        "id": 87,
+        "cita": "Nunca está en el pasado, la derrota. Empapa el presente, mancha incluso el sol de la mañana del color de la tierra quemada",
+        "autor": "Margaret Atwood"
+    },
+    {
+        "id": 88,
+        "cita": "Hoy que no tenemos profetas y apenas podemos con la desgracia de estar abandonados, los escuchamos con la terrible convicción de que el dolor es el único lenguaje que traspasará la historia",
+        "autor": "Rosabetty Muñoz"
+    },
+    {
+        "id": 89,
+        "cita": "Para estar aquí hace falta estar vencido.",
+        "autor": "Rosabetty Muñoz"
+    },
+    {
+        "id": 90,
+        "cita": "Lo que amamos se deshace en noches vacías como domingos.",
+        "autor": "Rosabetty Muñoz"
+    },
+    {
+        "id": 91,
+        "cita": "Nada hay que pueda llenarnos el corazón. Nada.",
+        "autor": "Rosabetty Muñoz"
+    },
+    {
+        "id": 92,
+        "cita": "¿Qué podemos hacer si lo más bello es lo que no ha pasado?",
+        "autor": "Rosabetty Muñoz"
+    },
+    {
+        "id": 93,
+        "cita": "Uno es una suma mermada por infinitas restas",
+        "autor": "Sergio Pitol"
+    },
+    {
+        "id": 94,
+        "cita": "Es junio. Estoy cansada de ser valiente",
+        "autor": "Anne Sexton"
+    },
+    {
+        "id": 95,
+        "cita": "Me gusta pensar que nadie moriría nunca mas Si todos creyéramos en las margaritas, Pero los gusanos lo saben mejor, ¿no es cierto? Ellos se deslizan en el oído del cadáver Escuchando sus grandes suspiros.",
+        "autor": "Anne Sexton"
+    },
+    {
+        "id": 96,
+        "cita": "maldigo lo perfumado porque mi anhelo está muerto maldigo todo lo cierto y lo falso con lo dudoso, cuánto será mi dolor.",
+        "autor": "Violeta Parra"
+    },
+    {
+        "id": 97,
+        "cita": "Da pena el fuego porque existe mientras muere.",
+        "autor": "Inés Estévez"
+    },
+    {
+        "id": 98,
+        "cita": "hoy sólo tengo ansias de arrancarme de cuajo el corazón y ponerlo debajo de un zapato.",
+        "autor": "Miguel Hernández"
+    },
+    {
+        "id": 99,
+        "cita": "No hay extensión más grande que mi herida",
+        "autor": "Miguel Hernández"
+    },
+    {
+        "id": 100,
+        "cita": "¿A qué viene todo esto? A que he nacido.",
+        "autor": "Cioran"
+    },
+        {
+        "id": 101,
+        "cita": "Elegir la propia máscara es el primer gesto voluntario humano. Y es solitario.",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 102,
+        "cita": "Al final, ¿Qué importa más: vivir o saber que se está viviendo?",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 103,
+        "cita": "Morir - lleva solo un ratito - dicen que no duele - nada más se atenúa - gradualmente - y luego - ni vese",
+        "autor": "Emily Dickinson"
+    },
+    {
+        "id": 104,
+        "cita": "El Alma elige su propia Compañía - luego - cierra la Puerta - y a su divina Mayoría - retira la Presencia -",
+        "autor": "Emily Dickinson"
+    },
+    {
+        "id": 105,
+        "cita": "\"La vida no tiene sentido pero vale la pena vivir, siempre que reconozcas que no tiene sentido\"",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 106,
+        "cita": "\"La gente nunca está convencida de tus razones, de tu sinceridad, de tu seriedad o tus sufrimientos, salvo si te mueres\"",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 107,
+        "cita": "El dolor, duele siempre. Solo no duele después de muerto, porque la vida entera es dolor.",
+        "autor": "Rachel de Queiróz"
+    },
+    {
+        "id": 108,
+        "cita": "Tu esqueleto es un pez devorado cuyas espinas se sacan de los dientes",
+        "autor": "Elvira Hernández"
+    },
+    {
+        "id": 109,
+        "cita": "florecen las tinieblas más que nunca y donde sea sabemos que es la única luz",
+        "autor": "Elvira Hernández"
+    },
+    {
+        "id": 110,
+        "cita": "Aves de paso Sí. Eso somos Pero nos hemos acostumbrado a comportarnos como monumentos. Y así nos va",
+        "autor": "Elvira Hernández"
+    },
+    {
+        "id": 111,
+        "cita": "Ah, dolor, no debería tratarte como a un perro sin dueño que viene hasta mi puerta por si consigue un trozo de pan duro, un hueso pelado. Debería confiar en ti.",
+        "autor": "Denise Levertov"
+    },
+    {
+        "id": 112,
+        "cita": "Cada verano el último verano.",
+        "autor": "Denise Levertov"
+    },
+    {
+        "id": 113,
+        "cita": "Cada día el último día.",
+        "autor": "Denise Levertov"
+    },
+    {
+        "id": 114,
+        "cita": "Cada minuto el último minuto.",
+        "autor": "Denise Levertov"
+    },
+    {
+        "id": 115,
+        "cita": "Tengo un plan nuevo: Volverme loco.",
+        "autor": "Dostoievsky"
+    },
+    {
+        "id": 116,
+        "cita": "¿Qué puede ser más inverosímil que la realidad?",
+        "autor": "Dostoievsky"
+    },
+    {
+        "id": 117,
+        "cita": "Este es mi último mensaje para ti: en el dolor, busca la felicidad.",
+        "autor": "Dostoievsky"
+    },
+    {
+        "id": 118,
+        "cita": "Tengo un idiota dentro de mí, que llora, que llora y que no sabe, y mira sólo la luz, la luz que no sabe.",
+        "autor": "Leopoldo María Panero"
+    },
+    {
+        "id": 119,
+        "cita": "¡Oh Satán, ten piedad de mi larga miseria!",
+        "autor": "Baudelaire"
+    },
+    {
+        "id": 120,
+        "cita": "La muerte es la posibilidad de la radical imposibilidad de existir. La muerte se revela así como la posibilidad más propia, irrespectiva e insuperable.",
+        "autor": "Martin Heidegger"
+    },
+    {
+        "id": 121,
+        "cita": "Nuestra esperanza era también pavor",
+        "autor": "Ted Hughes"
+    },
+    {
+        "id": 122,
+        "cita": "El dolor del amor y el dolor del temor y el dolor de la muerte",
+        "autor": "Ted Hughes"
+    },
+    {
+        "id": 123,
+        "cita": "Lo encontraste allí, el misterio del odio.",
+        "autor": "Ted Hughes"
+    },
+    {
+        "id": 124,
+        "cita": "El terror era la nube de tu ser que esperaba esos relámpagos",
+        "autor": "Ted Hughes"
+    },
+    {
+        "id": 125,
+        "cita": "Nada es bastante real para un fantasma",
+        "autor": "Enrique Lihn"
+    },
+    {
+        "id": 126,
+        "cita": "Existe siempre el mar sepultando pájaros renovando sollozos rompiendo gestos.",
+        "autor": "Hilda Hilst"
+    },
+    {
+        "id": 127,
+        "cita": "La vida es cruda. Hambrienta como el pico de los cuervos.",
+        "autor": "Hilda Hilst"
+    },
+    {
+        "id": 128,
+        "cita": "Vivir no es ser valiente, valiente es saber que se vive.",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 129,
+        "cita": "Haberse muerto tanto y de tal modo y sostener un nombre todavía",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 130,
+        "cita": "Haberse muerto tanto y que la boca quiera vivir un poco todavía",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 131,
+        "cita": "Qué es esto sangre aliento piel nada",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 132,
+        "cita": "La tarde que se muere se agiganta",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 133,
+        "cita": "Me faltan tantas cosas que me duelen las manos que se alargan dolientes, pálidas y vacías",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 134,
+        "cita": "Da hasta miedo seguir si con tan pocos años pesa tanto la vida",
+        "autor": "Idea Vilariño"
+    },
+    {
+        "id": 135,
+        "cita": "¿De qué se esconden los animales cuando están heridos? ¿Por qué mueren solos los animales? ¿de qué están hechos que pueden pasar por eso sin piedad, sin espectáculo?",
+        "autor": "Valeria Tentoni"
+    },
+    {
+        "id": 136,
+        "cita": "No es que haya que vivir, puesto que la vida nos es fatalmente dada... la vida se vive a sí misma, nos guste o no.",
+        "autor": "Julio Cortázar"
+    },
+    {
+        "id": 137,
+        "cita": "La muerte es dulce; pero su antesala, cruel",
+        "autor": "Camilo José Cela"
+    },
+    {
+        "id": 138,
+        "cita": "No me preocupa la muerte, me disolveré en la nada",
+        "autor": "Saramago"
+    },
+    {
+        "id": 139,
+        "cita": "Ni miedo ni esperanza acompañan al animal que muere",
+        "autor": "Yeats"
+    },
+    {
+        "id": 140,
+        "cita": "Tendré rosas en el cuerpo, en las manos, en los pies.",
+        "autor": "Hilda Hilst"
+    },
+    {
+        "id": 141,
+        "cita": "¿Atravesáremos juntos las grandes espirales la arteria extendida del silencio, el vacío la planicie del tiempo?",
+        "autor": "Hilda Hilst"
+    },
+    {
+        "id": 142,
+        "cita": "La única respuesta estratégicamente inteligente a los horrores de la vida es desafiarlos con la risa.",
+        "autor": "Søren Kierkegaard"
+    },
+    {
+        "id": 143,
+        "cita": "La existencia es una imperfección.",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 144,
+        "cita": "Nada pasa mientras vivimos. El escenario cambia, las personas vienen y van. Eso es todo.",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 145,
+        "cita": "No es que Morir nos duela tanto - el Vivir - más nos duele - pero Morir - es vía alterna - tras la Puerta una suerte -",
+        "autor": "Emily Dickinson"
+    },
+    {
+        "id": 146,
+        "cita": "Y me engañaré diciendo: «Vendrán nuevos rostros Vendrán nuevos días».",
+        "autor": "Jorge Teillier"
+    },
+    {
+        "id": 147,
+        "cita": "Mi futuro es una cuenta por pagar.",
+        "autor": "Jorge Teillier"
+    },
+    {
+        "id": 148,
+        "cita": "Todo se ordena en este «mundo en que vivimos», todo se ordena y todo se construye. Pero nosotros pertenecemos al «mundo en que morimos». Ahí todo está suspendido, ahí todo es más verdadero, pero no accedemos a ello sino a través de la ventana de la muerte.",
+        "autor": "George Bataille"
+    },
+    {
+        "id": 149,
+        "cita": "Los hombres querrían escapar de la muerte, extraña especie. Y algunos claman, morir, morir, porque quisieran escapar de la vida.",
+        "autor": "Maurice Blanchot"
+    },
+    {
+        "id": 150,
+        "cita": "Las lágrimas vertidas se harán perlas de un collar nuevo",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 151,
+        "cita": "Mas… ¿lo que fue? ¡Jamás se recupera!",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 152,
+        "cita": "Este grave daño que me da la vida Es un dulce daño, porque la partida Que debe alejarme de la misma vida Más cerca tendré.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 153,
+        "cita": "Las veces que ha cambiado de postura No son una por cierto, sino cien, Que el arte de morir es cosa dura: Se ensaya mucho y no se aprende bien.",
+        "autor": "Alfonsina Storni"
+    },
+    {
+        "id": 154,
+        "cita": "Quién sabe, puede que la vida sea la muerte, y la muerte, la vida",
+        "autor": "Eurípides"
+    },
+    {
+        "id": 155,
+        "cita": "La melancolía, el reflexionar sobre la infelicidad existente, no tiene nada en común, sin embargo, con el ansia de muerte. Es una forma de resistencia.",
+        "autor": "Winfried Georg Sebald"
+    },
+    {
+        "id": 156,
+        "cita": "La muerte es demasiado exacta; todas las razones se encuentran de su lado. Misteriosa para nuestros instintos, se dibuja, ante nuestra reflexión, límpida, sin prestigios y sin los falsos atractivos de lo desconocido",
+        "autor": "Cioran"
+    },
+    {
+        "id": 157,
+        "cita": "No existe muerte natural: nada de lo que sucede al hombre es natural puesto que su sola presencia cuestiona el mundo. Todos los hombres son mortales: pero para todos la muerte es un accidente y, aunque la conozcan y la acepten, es una violencia indebida",
+        "autor": "Simone de Beauvoir"
+    },
+    {
+        "id": 158,
+        "cita": "La muerte como viaje sin regreso, pregunta sin datos, puro signo de interrogación",
+        "autor": "Levinas"
+    },
+    {
+        "id": 159,
+        "cita": "Lo que es necesario tener en cuenta en primer lugar es el carácter absurdo de la muerte. En este sentido, toda tentación de considerarlo como un acorde de resolución al término de una melodía, debe descartarse rigurosamente",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 160,
+        "cita": "miramos a la muerte de lejos, aunque en gran parte ya haya pasado, porque el tiempo pasado pertenece a la muerte",
+        "autor": "María Zambrano"
+    },
+    {
+        "id": 161,
+        "cita": "La vida nos habla de la muerte, no habla de otra cosa más que de la muerte. Es más: de cualquier cosa de que se trate, al menos en un sentido se está tratando de la muerte, hablar de cualquier cosa, por ejemplo de la esperanza, significa hablar obligatoriamente de la muerte",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 162,
+        "cita": "hablar del dolor es hablar sin nombrarla, de la muerte",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 163,
+        "cita": "filosofar sobre el tiempo es, mediante el rodeo de la temporalidad y sin llamar a la muerte por su nombre, filosofar sobre la muerte",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 164,
+        "cita": "meditar sobre la apariencia que es una mezcla de ser y de no ser, es implícitamente meditar sobre la muerte.",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 165,
+        "cita": "Al no poder pensar la muerte, parece que sólo nos quedan dos soluciones: o bien pensar sobre la muerte, acerca de la muerte, a propósito de la muerte; o bien pensar en algo distinto a la muerte, por ejemplo en la vida",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 166,
+        "cita": "¿cómo es que el hombre mortal no se ha acostumbrado todavía a este acontecimiento natural y sin embargo siempre accidental? ¿Por qué se extraña cada vez que un vivo desaparece, como si semejante acontecimiento sucediera por primera vez?",
+        "autor": "Vladimir Jankélévitch"
+    },
+    {
+        "id": 167,
+        "cita": "No hay consuelo más hábil que el pensamiento de que hemos elegido nuestras desdichas",
+        "autor": "Borges"
+    },
+    {
+        "id": 168,
+        "cita": "Lo único que nos separa de la muerte es el tiempo",
+        "autor": "Hemingway"
+    },
+    {
+        "id": 169,
+        "cita": "Para los hombres como son actualmente no hay sino una novedad radical, y además ésa es siempre la misma: la muerte",
+        "autor": "Walter Benjamin"
+    },
+    {
+        "id": 170,
+        "cita": "Antes de mi muerte existe la muerte del otro, la imagen de la muerte y la muerte como imagen, lo que hace que 'mi' muerte, que anticipo y preveo sea precisamente visión, es decir imagen y representación",
+        "autor": "Martin Heidegger"
+    },
+    {
+        "id": 171,
+        "cita": "En lo que nace, tanto podemos sentir lo que nace como pensar lo que ha de morir",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 172,
+        "cita": "El cadáver me da la impresión de un traje abandonado.",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 173,
+        "cita": "La muerte es la muerte de la muerte",
+        "autor": "Ludwig Feuerbach"
+    },
+    {
+        "id": 174,
+        "cita": "La vida debe considerarse un préstamo recibido de la muerte, y el sueño es el interés diario de ese préstamo",
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 175,
+        "cita": "Si yo fuera un hacedor de libros, haría un registro comentado de las distintas muertes; quien enseñara a los hombres a morir les enseñaría a vivir",
+        "autor": "Montaigne"
+    },
+    {
+        "id": 176,
+        "cita": "Me propuse subir a la montaña, le de los siete escalones y aquí estoy, a los primeros pasos, yo, que me creía curada.",
+        "autor": "Adélia Prado"
+    },
+    {
+        "id": 177,
+        "cita": "Estoy perturbada respecto de seguir reflexionando. Quizás encuentre un camino y encontrarlo antes de tiempo es perderme otra vez.",
+        "autor": "Adélia Prado"
+    },
+    {
+        "id": 178,
+        "cita": "Vamos cayendo, cayendo de nuestro zenit a nuestro nadir y dejamos el aire manchado de sangre para que se envenenen los que vengan mañana a respirarlo.",
+        "autor": "Vicente Huidobro"
+    },
+    {
+        "id": 179,
+        "cita": "Por estar tan lleno el mundo de muerte y horror es por lo que busco constantemente consolar mi corazón y coger las bellas flores que crecen en medio de este infierno.",
+        "autor": "Hermann Hesse"
+    },
+    {
+        "id": 180,
+        "cita": "Encuentro el placer y, por un instante, olvido el horror. Pero eso no quiere decir que no esté allí.",
+        "autor": "Hermann Hesse"
+    },
+    {
+        "id": 181,
+        "cita": "Pero, al final, uno necesita más coraje para vivir que para quitarse la vida.",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 182,
+        "cita": "Despertar dificil. Vivir es hacer daño a los demás y a uno mismo a través de los demás. ¡Tierra cruel! ¿Cómo hacer para no tocar nada? ¿Dónde encontrar un exilio definitivo?",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 183,
+        "cita": "No debatirse más, hacerse una con la que renunció desde siempre",
+        "autor": "Alejandra Pizarnik"
+    },
+    {
+        "id": 184,
+        "cita": "Demasiado cansado.",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 185,
+        "cita": "Me estoy viniendo abajo. Venirse abajo es una forma tan absurda e innecesaria.",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 186,
+        "cita": "Todas estas quejas no son estoicas. ¿Y qué más da?",
+        "autor": "Cesare Pavese"
+    },
+    {
+        "id": 187,
+        "cita": "Vienen días más duros.",
+        "autor": "Ingeborg Bachmann"
+    },
+    {
+        "id": 188,
+        "cita": "Y el esplendor no repara en la putrefacción. Nuestra deidad, la Historia, nos ha dispuesto una sepultura de la que no hay resurrección.",
+        "autor": "Ingeborg Bachmann"
+    },
+    {
+        "id": 189,
+        "cita": "Un puñado de dolor se pierde sobre la colina",
+        "autor": "Ingeborg Bachmann"
+    },
+    {
+        "id": 190,
+        "cita": "Estamos tan heridos que creemos morir cuando la calle nos lanza una mala palabra.",
+        "autor": "Nelly Sachs"
+    },
+    {
+        "id": 191,
+        "cita": "El mundo está formado por personas desgraciadas.",
+        "autor": "Osamu Dazai"
+    },
+    {
+        "id": 192,
+        "cita": "Muerto viviente. Indigno de ser humano. Dejé por completo de ser una persona",
+        "autor": "Osamu Dazai"
+    },
+    {
+        "id": 193,
+        "cita": "En mi existencia ya no existe la felicidad o el sufrimiento. Todo pasa. Esa es la única verdad en toda mi vida transcurrida en el interminable infierno de la sociedad humana",
+        "autor": "Osamu Dazai"
+    },
+    {
+        "id": 194,
+        "cita": "Tengo la sensación de que no vale la pena esforzarse por nada, y es horrible lo nerviosa y quejosa que me estoy volviendo",
+        "autor": "Charlotte Perkins Gilmar"
+    },
+    {
+        "id": 195,
+        "cita": "Una mañana, tal vez, caminando en un aire vítreo, árido, al mirar hacia atrás observaré el prodigio: la nada a mis espaldas, el vacío tras de mí, con un terror de borracho.",
+        "autor": "Eugenio Montale"
+    },
+    {
+        "id": 196,
+        "cita": "También te entrego mi avara esperanza. Cansado ya, en los nuevos días no sabría acrecentarla; la ofrezco en prenda a tu destino, que te salve.",
+        "autor": "Eugenio Montale"
+    },
+    {
+        "id": 197,
+        "cita": "Muy a menudo, en cambio, llueve sobre mojado.",
+        "autor": "Eugenio Montale"
+    },
+    {
+        "id": 198,
+        "cita": "Sé que la soledad puede producir relámpagos de ardiente dolor, un dolor que, si se mantiene lo sifucientemente caliente durante el tiempo suficiente, puede empezar a estimular, o a provocar -como prefieras- una aprehensión a lo divino. (Esto debería despertar nuestras sospechas)",
+        "autor": "Maggie Nelson"
+    },
+    {
+        "id": 199,
+        "cita": "Toda declaración de amor es urgente porque vamos a morir",
+        "autor": "Raul Zurita"
+    },
+    {
+        "id": 200,
+        "cita": "Estoy cansado, claro, porque a esta altura uno tiene que estar cansado. De qué estoy cansado, no lo sé; y de nada serviría saberlo, porque el cansancio seguiría igual.",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 201,
+        "cita": "La herida duele porque duele, no en función de la causa que la ha abierto.",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 202,
+        "cita": "Sí, estoy cansado y un poco sonriente de que el cansancio sea sólo esto: ganas de dormir en el cuerpo, deseo de no pensar en el alma y por encima de todo una transparencia lúcida del entendimiento retrospectivo…",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 203,
+        "cita": "¿Y la lujuria sin par de no tener ya esperanza?",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 204,
+        "cita": "vivir encadenado a la desgana ¿es acaso vivir? ¿y esto qué enseña?",
+        "autor": "Miguel de Unamuno"
+    },
+    {
+        "id": 205,
+        "cita": "Una vez rotas hay cosas que es imposible reparar",
+        "autor": "Anne Sexton"
+    },
+    {
+        "id": 206,
+        "cita": "Sí. Seremos olvidados. Así es la vida, nada que hacer.",
+        "autor": "Annie Ernaux"
+    },
+    {
+        "id": 207,
+        "cita": "Lo que hoy nos parece importante, grave, cargado de consecuencias, bueno, llegará un momento en que se olvidará, en que ya no importará.",
+        "autor": "Annie Ernaux"
+    },
+    {
+        "id": 208,
+        "cita": "También es posible que esta vida que hoy damos por sentada, un día la consideremos extraña, inconfortable, idiota, insuficientemente pura y, quién sabe, incluso, culpable.",
+        "autor": "Annie Ernaux"
+    },
+    {
+        "id": 209,
+        "cita": "Pregúntate en todo momento ¿es esto necesario?",
+        "autor": "Marco Aurelio"
+    },
+    {
+        "id": 210,
+        "cita": "Esto es lo primero que yo aprendí: el tiempo es el eco de un hacha adentro de un bosque.",
+        "autor": "Philip Larkin"
+    },
+    {
+        "id": 211,
+        "cita": "Con la muerte, te disuelves: los pedazos que eran tú comienzan a alejarse uno del otro, para siempre, sin que nadie los vea.",
+        "autor": "Philip Larkin"
+    },
+    {
+        "id": 212,
+        "cita": "Algunas duras palabras en voz tenue, te golpearon. Esas, nunca, nunca cicatrizan. Sin embargo, ¿existe el humor?",
+        "autor": "Carlos Drummond de Andrade"
+    },
+    {
+        "id": 213,
+        "cita": "Las plantas sufren como nosotros sufrimos. ¿Por qué no habrían de sufrir si esta es la llave de la unidad del mundo?",
+        "autor": "Carlos Drummond de Andrade"
+    },
+    {
+        "id": 214,
+        "cita": "La nítida delimitación de los cuerpos humanos es horrible.",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 215,
+        "cita": "Sentimiento de total desamparo.",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 216,
+        "cita": "Jamás la esperanza. Nada nacerá. Ciencia y paciencia, el suplicio es seguro",
+        "autor": "Arthur Rimbaud"
+    },
+    {
+        "id": 217,
+        "cita": "¿Qué alma existe sin defectos?",
+        "autor": "Arthur Rimbaud"
+    },
+    {
+        "id": 218,
+        "cita": "Este largo cansancio se hará mayor un día y el alma dirá al cuerpo que no quiere seguir",
+        "autor": "Gabriela Mistral"
+    },
+    {
+        "id": 219,
+        "cita": "No, cansancio no es… Es que yo esté existiendo",
+        "autor": "Fernando Pessoa"
+    }
 ]
