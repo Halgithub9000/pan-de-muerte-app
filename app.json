@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pan-de-muerte-app",
-    "slug": "Pan de Muerte",
+    "name": "Pan de Muerte",
+    "slug": "pan-de-muerte-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/pan_de_muerte_icon.png",
