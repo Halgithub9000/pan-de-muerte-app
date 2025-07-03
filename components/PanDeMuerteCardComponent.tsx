@@ -1,16 +1,14 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import PanDeMuerteCardComponentStyles from '../styles/PanDeMuerteCardComponentStyles';
-import citas from '../data/citas.json';
+import { Quote } from '../types/Quote';
 
-const PanDeMuerteCardComponent = () => {
-  const randomIndex = Math.floor(Math.random() * citas.length);
-  const cita = citas[randomIndex];
+const PanDeMuerteCardComponent = ({ quote }: { quote: Quote }) => {
 
   return (
     <View style={PanDeMuerteCardComponentStyles.container}>
-      <Text style={PanDeMuerteCardComponentStyles.text}>{`"${cita.cita}"`}</Text>
-      <Text style={PanDeMuerteCardComponentStyles.text}>{`${cita.autor} - ${cita.lugar}`}</Text>
+      <Text style={PanDeMuerteCardComponentStyles.text}>{`"${quote.cita}"`}</Text>
+      <Text style={PanDeMuerteCardComponentStyles.text}>{`${quote.autor}`}</Text>
     </View>
   );
 };
