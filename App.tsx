@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import { View } from 'react-native';
 import * as SplashScreen from 'expo-splash-screen';
-import HomeScreen from './app/(tabs)/index';
-
+import Navigation from './app/index';
 export default function App() {
   useEffect(() => {
     const prepare = async () => {
@@ -10,7 +9,7 @@ export default function App() {
         // Mantén el splash visible
         await SplashScreen.preventAutoHideAsync();
         // Simula un retraso de 2 segundos
-        await new Promise(resolve => setTimeout(resolve, 2000));
+        await new Promise(resolve => setTimeout(resolve, 4000));
       } catch (e) {
         console.warn(e);
       } finally {
@@ -24,7 +23,7 @@ export default function App() {
 
   return (
     <View style={{ flex: 1 }}>
-      <HomeScreen />
+      <Navigation />
     </View>
   );
 }
