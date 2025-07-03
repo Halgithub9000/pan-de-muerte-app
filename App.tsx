@@ -1,29 +1,20 @@
-import React, { useEffect } from 'react';
+import React, { useState } from 'react';
 import { View } from 'react-native';
-import * as SplashScreen from 'expo-splash-screen';
 import Navigation from './app/index';
-export default function App() {
-  useEffect(() => {
-    const prepare = async () => {
-      try {
-        // Mantén el splash visible
-        await SplashScreen.preventAutoHideAsync();
-        // Simula un retraso de 2 segundos
-        await new Promise(resolve => setTimeout(resolve, 4000));
-      } catch (e) {
-        console.warn(e);
-      } finally {
-        // Oculta el splash
-        await SplashScreen.hideAsync();
-      }
-    };
+import SplashScreen from './app/(tabs)/SplashScreen'; // Importa el componente SplashScreen
 
-    prepare();
-  }, []);
+export default function App() {
+  const [showSplash, setShowSplash] = useState(true); // Estado para controlar el splash
 
   return (
     <View style={{ flex: 1 }}>
-      <Navigation />
+      {showSplash ? (
+        // Muestra el SplashScreen al inicio
+        <SplashScreen onFinish={() => setShowSplash(false)} />
+      ) : (
+        // Muestra el enrutador principal después del splash
+        <Navigation />
+      )}
     </View>
   );
 }

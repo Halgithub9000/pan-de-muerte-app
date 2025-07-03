@@ -1,12 +1,18 @@
 import React from 'react';
-import { View } from 'react-native';
+import { View, StyleSheet } from 'react-native';
 import PanDeMuerteComponent from '../../components/PanDeMuerteComponent';
-import HomeScreenStyles from '../../styles/HomeScreenStyles';
 
 export default function HomeScreen() {
   return (
-    <View style={HomeScreenStyles.container}>
+    <View style={styles.outerContainer}>
       <PanDeMuerteComponent />
     </View>
   );
 }
+
+  const styles = StyleSheet.create({
+    outerContainer: {
+      flex: 1,
+      backgroundColor: '#121212', // Fondo oscuro
+    },
+  });
